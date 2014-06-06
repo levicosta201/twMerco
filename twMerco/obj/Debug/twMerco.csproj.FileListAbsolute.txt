@@ -1,0 +1,13 @@
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\bin\Debug\twMerco.exe
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\bin\Debug\twMerco.pdb
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.frmLogin.resources
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.Properties.Resources.resources
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.csproj.GenerateResource.Cache
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.exe
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.pdb
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.frmLogadoPiloto.resources
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\bin\Debug\FSUIPCClient.dll
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
+c:\users\levic_000\documents\visual studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.csprojResolveAssemblyReference.cache
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\bin\Debug\MySql.Data.DLL
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\Debug\twMerco.frmLogadoControle.resources
