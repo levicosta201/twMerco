@@ -1065,7 +1065,7 @@ namespace twMerco
             /* É aconselhável criar um utilizador com password. Para acrescentar a password é somente
             necessário acrescentar o seguinte código a seguir ao uid=root;password=xxxxx*/
 
-            mConn = new MySqlConnection("Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*");
+            mConn = new MySqlConnection("Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx");
 
             // Abre a conexão
             mConn.Open();
@@ -1098,7 +1098,7 @@ namespace twMerco
 
 
 
-            string stringConnection = "Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*";
+            string stringConnection = "Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx";
 
             string ICAOoperante = txtDepartureAirport.Text;
            // string freqOperante = txtFrequenciaOperar.Text;
@@ -1138,7 +1138,7 @@ namespace twMerco
            
             string ICAO = this.comboBox1.Text;
 
-            string stringConnection = "Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*";
+            string stringConnection = "Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx";
 
             string ICAOoperante = txtDepartureAirport.Text;
             // string freqOperante = txtFrequenciaOperar.Text;
@@ -1178,7 +1178,7 @@ namespace twMerco
 
             string ICAO = this.comboBox1.Text;
 
-            string stringConnection = "Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*";
+            string stringConnection = "Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx";
 
             string ICAOoperante = txtDepartureAirport.Text;
             // string freqOperante = txtFrequenciaOperar.Text;
@@ -1220,7 +1220,7 @@ namespace twMerco
         {
 
 
-            string stringConnection = "Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*";
+            string stringConnection = "Persist Security Info=False;server=localhost;database=xxxx;uid=xxxx;pwd=xxxx";
 
             string ICAOoperante = txtDepartureAirport.Text;
             string freqOperante = txtCom2Ativo.Text;

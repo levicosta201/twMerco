@@ -595,7 +595,7 @@ namespace twMerco
             mDataSet = new DataSet();
 
             //define string de conexao e cria a conexao
-            mConn = new MySqlConnection(" Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*");
+            mConn = new MySqlConnection(" Persist Security Info=False;server=localhost;database=voemerco_v2;uid=xxx;pwd=xxx");
             //server=localhost;database=Cadastro;uid=root;pwd=xxxx");
 
             try
@@ -659,7 +659,7 @@ namespace twMerco
         {
           
            
-                string stringConnection = "Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*";
+                string stringConnection = "Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx";
 
                 string ICAOoperante = txtICAOsearchChat.Text;
                 string freqOperante = txtFrequenciaOperar.Text;
@@ -790,7 +790,7 @@ namespace twMerco
             /* É aconselhável criar um utilizador com password. Para acrescentar a password é somente
             necessário acrescentar o seguinte código a seguir ao uid=root;password=xxxxx*/
 
-            mConn = new MySqlConnection("Persist Security Info=False;server=voemercosul.com;database=voemerco_v2;uid=voemerco_v2;pwd=).+dTv$XT(U*");
+            mConn = new MySqlConnection("Persist Security Info=False;server=localhost;database=xxx;uid=xxx;pwd=xxx");
 
             // Abre a conexão
             mConn.Open();
