@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activityRootModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="5f0a8888-de1c-4e06-a151-ae5afb015d06" name="ActivitytwMerco" linkedPackageId="311afa80-db74-488a-bca1-2714ba0dc9bc" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="a8a16bac-b8de-4cc7-a814-37c29efc6fc3">
+      <profileInstance Id="20c335b4-5002-4664-a997-2a65f768475a" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="cac050ce-ab65-4905-9173-756e2c291403">
+      <profileInstance Id="8fd16ca9-6b70-43c5-a783-35448a41e1e4" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <activityRootModelHasActivity>
+      <activity Id="7afde1c1-3d55-47cc-b37a-d50d00b903c8" name="ActivitytwMerco" isAbstract="false" isLeaf="false" isActiveClass="false" isReentrant="false" isReadOnly="false" isSingleExecution="false">
+        <elementDefinition Id="27a4cf8f-2b38-4044-801c-9d4266b546dc" />
+      </activity>
+    </activityRootModelHasActivity>
+  </packagedElements>
+  <package Id="311afa80-db74-488a-bca1-2714ba0dc9bc" name="DiagramaTwMerco">
+    <elementDefinition Id="8383bd4a-9ba3-4e77-88ec-84eb2ceffaf5" />
+  </package>
+</activityRootModel>

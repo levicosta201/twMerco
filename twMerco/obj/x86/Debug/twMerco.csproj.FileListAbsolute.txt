@@ -1,0 +1,6 @@
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.csprojResolveAssemblyReference.cache
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.frmLogadoControle.resources
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.frmLogadoPiloto.resources
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.frmLogin.resources
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.Properties.Resources.resources
+C:\Users\levic_000\Documents\Visual Studio 2012\Projects\twMerco\twMerco\obj\x86\Debug\twMerco.csproj.GenerateResource.Cache
